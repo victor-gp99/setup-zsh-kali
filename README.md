@@ -83,6 +83,3 @@ Este proyecto automatiza la **personalización completa de la shell ZSH en Kali 
 **Victor Eduardo García**
 🔹 IT & Cybersecurity Engineer
 🔹 Pentester
-
-
-¿Quieres que también te cree un archivo `LICENSE` (por ejemplo MIT o GPLv3) y un `.gitignore` básico para incluir en el repo?
